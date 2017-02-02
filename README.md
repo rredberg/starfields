@@ -1,4 +1,4 @@
 # p5_scaffold
-Starfield graphic effects.
+Starfield graphics effects.
 
 http://rredberg.github.io/starfields/
